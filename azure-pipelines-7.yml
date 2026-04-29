@@ -28,5 +28,5 @@ stages:
         displayName: 'Test Job'
         steps:
           - script: |
-              echo "Running unit tests"
-              displayName: 'Run unit tests'
+              echo "Running unit tests..."
+            displayName: 'Run unit tests'
